@@ -1,5 +1,7 @@
 # iris_detector
 
+Final Project for CS 231n.
+
 ## Radius Classifier
 
 This notebook contains the necessary code to construct and train several deep convolutional models to predit the radius of a human iris in a given image.
